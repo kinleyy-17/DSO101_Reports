@@ -133,15 +133,6 @@ CMD ["npm", "start"]
 
 ---
 
-## 📸 Screenshots
-
-> Screenshots of the following are included below:
-> - Successful GitHub Actions workflow run
-> - Docker Hub showing the pushed image
-> - Render.com showing successful redeployment
-
----
-
 ## 🧩 Challenges Faced
 
 - Render does not automatically redeploy when a new Docker image is pushed to Docker Hub — solved by adding a `curl` call to the Render deploy webhook in the workflow

@@ -149,17 +149,6 @@ npm install --save-dev jest jest-junit
 }
 ```
 
----
-
-## 📸 Screenshots
-
-> Screenshots of the following are included below:
-> - Jenkins pipeline with all 5 stages passing
-> - Test results in Jenkins (JUnit report)
-> - Docker Hub image successfully pushed
-
----
-
 ## 🧩 Challenges Faced
 
 - Plugin installation failures due to campus network restrictions

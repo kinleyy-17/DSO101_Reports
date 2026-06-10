@@ -122,16 +122,6 @@ services:
 
 ---
 
-## 📸 Screenshots
-
-> Screenshots of the following are included below:
-> - Docker Hub image pushed with student ID tag
-> - Render.com Part A deployment (pre-built image)
-> - Render.com Part B deployment (automated build)
-> - Live app running in browser
-
----
-
 ## ⚙️ Environment Variables
 
 > ⚠️ `.env` files are **not** committed to Git. They are added to `.gitignore`.
