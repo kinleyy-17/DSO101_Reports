@@ -1,0 +1,13 @@
+Commands
+-Docker run (container starter)
+-Docker ps (list containers)
+-docker ps -a(list all  containers)
+-docker stop (
+-docker rl (remove container)
+-docker images (list images(
+-docker run --help (manual)
+-docker rm(remove images)
+-docker pull (download an image)
+-docker run -it (interactive mode)
+-docker daemon (internal core of docker desktop)
+-docker -d __________ 
